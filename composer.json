@@ -1,5 +1,5 @@
 {
-  "name"       : "test/compo-sdk",
+  "name"       : "driver-test/driver",
   "version"    : "1.0.0",
   "type"       : "project",
   "description": "teste implementacao",
@@ -7,7 +7,6 @@
   "authors": [
     {
       "name"    : "teste-initi",
-      "email"   : "agencia.softr@gmail.com",
       "homepage": "http://www.softr.com.br"
     }
   ],
@@ -16,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Test\\Comp\\": "src/"
+      "DriverTest\\Driver\\": "src/"
     }
   }
 }
