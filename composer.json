@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "driver-test\\driver\\": "src/"
+      "DriverTest\\": "src/"
     }
   }
 }
