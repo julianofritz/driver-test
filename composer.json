@@ -1,6 +1,7 @@
 {
   "name"       : "test/compo-sdk",
-  "type"       : "library",
+  "version"    : "1.0.0",
+  "type"       : "project",
   "description": "teste implementacao",
   "keywords"   : ["teste", "testes"],
   "authors": [
@@ -17,6 +18,5 @@
     "psr-4": {
       "Test\\Comp\\": "src/"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
