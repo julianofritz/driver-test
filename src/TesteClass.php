@@ -1,6 +1,6 @@
 <?php
 
-namespace driverTest;
+namespace DriverTest\Driver;
 
 class TesteClass
 {
