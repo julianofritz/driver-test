@@ -16,7 +16,7 @@
   "autoload": {
     "psr-4": {
       "DriverTest\\Driver\\": "src/",
-      "classmap": [
+      "classmap\\": [
         "src"
       ]
     }
